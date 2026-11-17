@@ -1,0 +1,77 @@
+# Bazowy system
+base
+base-devel
+linux-cachyos
+linux-cachyos-headers
+linux-firmware
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+efibootmgr
+
+# Mikrokod
+amd-ucode
+intel-ucode
+
+# Pulpit KDE Plasma
+plasma-meta
+kde-applications-meta
+sddm
+sddm-kcm
+plasma-nm
+plasma-pa
+powerdevil
+xsettingsd
+xorg-xwayland
+
+# Sklep z aplikacjami
+discover
+packagekit-qt6
+flatpak
+fwupd
+
+# Obsluga aplikacji Windows (.exe)
+wine
+wine-mono
+wine-gecko
+winetricks
+lib32-mesa
+lib32-vulkan-icd-loader
+vulkan-icd-loader
+
+# Multimedia i dzwiek
+pipewire
+pipewire-alsa
+pipewire-pulse
+pipewire-jack
+wireplumber
+gst-plugins-good
+gst-plugins-bad
+gst-plugins-ugly
+ffmpeg
+
+# Siec
+networkmanager
+iwd
+firefox
+
+# Instalator
+calamares
+
+# Bezpieczenstwo
+firewalld
+apparmor
+
+# Narzedzia systemowe
+bash-completion
+htop
+nano
+vim
+git
+wget
+curl
+unzip
+p7zip
+ntfs-3g
+exfatprogs
+dosfstools
